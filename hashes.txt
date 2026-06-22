@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de rubí
+
+This log tracks the cryptographic history and versioning for the song **Labios de rubí** (labios-de-rubi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:17:23.328518 | `v1` | `0e2cb7ba55d558786290cb3c68c2f36a580924293243cac31ec34bd03b7418d9` | `a9b8e822bca5b6c7c5e14aef6749bb10e7b659cd2d86525b65ccb4c755196b75` | `2026-06-22_labios-de-rubi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

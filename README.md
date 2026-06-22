@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-rubi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios de rubí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-rubi/) |
+| **Get License** | [Commercial Licensing for Labios de rubí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-rubi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0e2cb7ba55d558786290cb3c68c2f36a580924293243cac31ec34bd03b7418d9` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
