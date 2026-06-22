@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-rubi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Labios de rubí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-rubi/) |
+| **Get License** | [Music Rights & Licensing for Labios de rubí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-rubi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de rubí me tienen mal de la cabeza
+> Brillando en lo oscuro, tú eres mi mayor debilidad
+> Un roce de tu piel y pierdo toda la destreza
+> Esta noche es nuestra y vamos hacia la eternidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
